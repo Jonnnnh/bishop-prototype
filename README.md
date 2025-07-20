@@ -1,6 +1,6 @@
 # Bishop Prototype
 
-An application emulator for testing the [Synthetic-Human-Core Starter](https://github.com/Jonnnnh/synthetic-human-core-starter).
+An application emulator for testing the [Synthetic-Human-Core Starter](https://github.com/Jonnnnh/synthetic-human-core-starter)
 
 ---
 
